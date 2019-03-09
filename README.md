@@ -1,6 +1,4 @@
 # social_media_topic_modeling
-As an analyst at UMASH, I conduct topic modeling to detect the topics which related to good or poor metric performance for content marketing strategy
-
 I created several functions for returning specifc topics for social media strategies. 
 
 One is simply to identify topics for all the post with specific topic number.
